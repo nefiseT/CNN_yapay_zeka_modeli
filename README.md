@@ -1,0 +1,1 @@
+# CNN_yapay_zeka_modeli
