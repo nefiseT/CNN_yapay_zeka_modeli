@@ -8,5 +8,7 @@
 Bu uygulamayı çalıştırmak için bir miktar Python ve numpy bilgisi gerekmektedir. Proram [Google Colab](https://colab.research.google.com/) üzerinde çalıştırılabilir veya tercihe göre Jüpiter not defteri kurup kullanabilirsiniz.
 
 traffic-sign-classification-with-keras-and-deep-learning
+
 Traffic-Sign-Classification
+
 CNN Modeli ile trafik işaretlerinin tanınması
